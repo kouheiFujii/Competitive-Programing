@@ -1,4 +1,5 @@
 {
+  "C_Cpp.clang_format_style": "{ BasedOnStyle: LLVM, BreakBeforeBraces: Attach, SpaceBeforeParens: Never, IndentWidth: 2 }",
   "files.associations": {
     "iostream": "cpp"
   }
